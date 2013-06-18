@@ -6,3 +6,5 @@ source "https://rubygems.org"
 gem 'cucumber', :require => false
 gem 'capybara'
 gem 'selenium-webdriver'
+gem 'rspec'
+gem 'debugger'
